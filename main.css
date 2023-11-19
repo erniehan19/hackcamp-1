@@ -26,4 +26,7 @@
 
   .row li {
     margin-right: 1.5rem; /* Adjust the value to set the desired space between buttons */
+    align-items: center;
   }
+
+
