@@ -1,0 +1,20 @@
+
+.sr-only {
+    color: red;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .navbar-nav li {
+    margin-right: 1.5rem; /* Adjust the value to set the desired space between buttons */
+}
+
+.navbar-nav {
+    list-style: none; /* Remove the default list-style (bullet points) */
+    padding: 0; /* Remove default padding */
+}
+
