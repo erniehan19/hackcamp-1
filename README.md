@@ -1,3 +1,3 @@
-# hackcamp.py
+# hackcamp
 
 LightBulb 
