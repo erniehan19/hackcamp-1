@@ -1,3 +1,0 @@
-# hackcamp
-
-LightBulb
